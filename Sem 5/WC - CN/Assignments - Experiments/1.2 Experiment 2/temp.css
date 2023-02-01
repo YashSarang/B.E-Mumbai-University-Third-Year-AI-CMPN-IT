@@ -1,0 +1,26 @@
+*{
+    background-color: #c9f492;
+    text-align: center;
+    justify-content: flex-start;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main_table{
+    background-color:pink;
+    text-align:center; 
+    border: 2px;
+    table-layout: fixed;
+    
+}
+
+.first_list{
+    background-color: chartreuse;
+    font-family: cursive;
+    margin-left: 10%;
+    text-align: center;
+    
+}
+
+.first_list ul{
+    list-style-position: inside;
+}
